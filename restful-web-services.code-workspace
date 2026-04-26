@@ -1,10 +1,10 @@
 {
   "folders": [
-	{
-		"path": "restful-web-services"
-	}
-],
+    {
+      "path": ".",
+    },
+  ],
   "settings": {
-    "java.configuration.updateBuildConfiguration": "interactive"
-  }
+    "java.configuration.updateBuildConfiguration": "interactive",
+  },
 }
